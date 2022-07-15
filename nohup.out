@@ -1,0 +1,18 @@
+
+(google-chrome:8804): Gdk-WARNING **: 20:04:37.604: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
+
+
+(google-chrome:8804): Gtk-WARNING **: 20:04:37.616: Theme parsing error: gtk-contained-dark.css:2871:228: Missing closing bracket for :not()
+
+(google-chrome:8804): Gdk-WARNING **: 20:04:37.646: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
+
+
+(google-chrome:8804): Gdk-WARNING **: 20:04:37.646: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
+
+
+(google-chrome:8804): Gdk-WARNING **: 20:04:37.646: Cannot transform xsetting gtk-enable-event-sounds of type gchararray to type gboolean
+
+
+(google-chrome:8804): Gdk-WARNING **: 20:04:37.647: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
+
+Abriendo en una sesión existente del navegador
